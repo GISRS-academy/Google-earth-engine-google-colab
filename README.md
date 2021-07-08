@@ -2,7 +2,7 @@
 
 https://earthengine.googlesource.com/users/st121047/CV_codes/+/refs/heads/master
 
-Here, five codes available: 
+Here, six codes available: 
 
 https://code.earthengine.google.com/?accept_repo=users/st121047/CV_codes
 
